@@ -1,0 +1,15 @@
+body {
+    background-color:  #1a40be;
+}
+
+main {
+    background-color: white;
+    color: grey;
+    height: 400px;
+    width : 250px;
+    position: fixed;
+    box-shadow: 1px 1px 100px #0f256f;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
