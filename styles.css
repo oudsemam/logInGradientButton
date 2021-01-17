@@ -64,3 +64,15 @@ button {
     border: none;
     background-image: linear-gradient(to right, #febe63, #e46d7f);
 }
+
+/* links */
+a {
+    text-decoration: none;
+}
+
+#forget {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    color: grey;
+}
