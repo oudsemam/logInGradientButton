@@ -32,6 +32,7 @@ header {
     left: 50%;
     transform: translate(-50%);
     font-family: "Roboto", sans-serif;
+    font-size: 17px;
     background-color: #f2f2f2;
     color: #a5a5a5;
     border: none;
@@ -46,6 +47,20 @@ label {
 }
 
 #checkbox {
-
     margin-bottom: 18px;
+}
+
+/* button */
+button {
+    text-transform: uppercase;
+    display: block;
+    border-radius: 25px;
+    padding: 9px 107px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    color: white;
+    border: none;
+    background-image: linear-gradient(to right, #febe63, #e46d7f);
 }
